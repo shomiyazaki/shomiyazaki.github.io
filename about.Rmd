@@ -14,7 +14,7 @@ output:
 
 ## About Me
 
-I am a data scientist interested in interesting in legislative redistricting, financial markets, and rugby football. I major in Political Science and minor in Japanese Literature and Arts. I am also working as a performance data analyst of the varsity rugby team.
+I am a data scientist interested in legislative redistricting, financial markets, and rugby football. I major in Political Science and minor in Japanese Literature and Arts. I am also working as a performance data analyst of the varsity rugby team.
 
 ## Education
 
