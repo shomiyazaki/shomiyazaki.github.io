@@ -1,12 +1,28 @@
 name: "shomiyazaki.github.io"
 title: "Sho Miyazaki"
 description: |
-  My Website
+  Sho Miyazaki's personal website
+base_url: https://shomiyazaki.github.io
 output_dir: "docs"  # docs directory of master branch
+#theme: myweb.css
+#favicon: assets/favicon.png
 navbar:
+  #logo:
+  #    image: assets/alarm_256_tr.png
+  #    href: https://alarm-redist.github.io/
+  #search: true
   right:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
+       - text: "Home"
+         href: index.html
+       - text: "About"
+          href: about.html
+        - text: "Redistricting"
+          href: https://alarm-redist.github.io
+        - text: "47-Pref Project"
+          href: https://alarm-redist.github.io/japan/
+        - icon: fab fa-github
+          href: https://github.com/shomiyazaki
+        - icon: fab fa-linkedin
+          href: https://twitter.com/alarm_redist
+
 output: distill::distill_article
