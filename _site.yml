@@ -4,7 +4,7 @@ description: |
   Sho Miyazaki's personal website
 base_url: https://shomiyazaki.github.io
 output_dir: "docs"  # docs directory of master branch
-#theme: myweb.css
+theme: theme.css
 #favicon: assets/favicon.png
 navbar:
   right:
@@ -13,12 +13,16 @@ navbar:
   - text: "About"
     href: about.html
   - text: "Redistricting"
-    href: https://alarm-redist.github.io
-  - text: "47-Pref Project"
-    href: https://alarm-redist.github.io/japan/
+    menu:
+      - text: "ALARM Project (Harvard University)"
+        href: https://alarm-redist.github.io
+      - text: "Japan 47-Prefecture Redistricting Simulations"
+        href: https://alarm-redist.github.io/japan/
+  - text: "CV"
+    href: about.html
+  - icon: fab fa-linkedin
+    href: https://www.linkedin.com/in/sho-miyazaki-2000/
   - icon: fab fa-github
     href: https://github.com/shomiyazaki
-  - icon: fab fa-linkedin
-    href: https://twitter.com/alarm_redist
 
 output: distill::distill_article
