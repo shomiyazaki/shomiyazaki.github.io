@@ -2,7 +2,7 @@ name: "shomiyazaki.github.io"
 title: "Sho Miyazaki"
 description: |
   My Website
-output_dir: "."     # root of master branch
+output_dir: "docs"  # docs directory of master branch
 navbar:
   right:
     - text: "Home"
