@@ -30,8 +30,10 @@ html {
   /*-- Specify custom fonts ~~~ must be imported above   --*/
   --heading-font:    "Noto Serif JP", sans-serif; /* edited */
   --mono-font:       "IBM Plex Mono", monospace;  /* edited */
-  --body-font:       "Noto Serif JP", sans-serif;          /* edited */
-  --navbar-font:     "Noto Serif JP", sans-serif;          /* edited */
+  --body-font:       "Noto Serif JP", sans-serif; /* edited */
+  --navbar-font:     "Noto Serif JP", sans-serif; /* edited */
+  /*-- Background Color--*/
+  --bkgd-color: #ECF0F1;
 }
 
 /*-- ARTICLE METADATA --*/
