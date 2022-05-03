@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Sho Miyazaki"
 image: "assets/shomiyazaki.jpg"
 links:
   - label: LinkedIn

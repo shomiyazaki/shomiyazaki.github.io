@@ -19,7 +19,7 @@ navbar:
       - text: "ALARM Project (Harvard University)"
         href: https://alarm-redist.github.io
       - text: "Japan 47-Prefecture Redistricting Simulations"
-        href: https://alarm-redist.github.io/japan/
+        href: https://alarm-redist.github.io/japan/en/
   - text: "CV"
     href: about.html
   - icon: fab fa-linkedin
