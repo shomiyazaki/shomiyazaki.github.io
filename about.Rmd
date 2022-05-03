@@ -5,7 +5,7 @@ links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/sho-miyazaki-2000/"
   - label: GitHub
-    url: "https://github.com/shomiyazai"
+    url: "https://github.com/shomiyazaki"
 #  - label: Email
 #    url: "mailto:sho.miyazaki.2000@keio.jp"
 output:
