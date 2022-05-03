@@ -5,7 +5,7 @@ description: |
 base_url: https://shomiyazaki.github.io
 output_dir: "docs"  # docs directory of master branch
 theme: theme.css
-#favicon: assets/favicon.png
+favicon: assets/favicon.png
 navbar:
   right:
   - text: "Home"
