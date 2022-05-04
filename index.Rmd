@@ -1,7 +1,7 @@
 ---
 title: "Sho Miyazaki"
 description: |
-  L.L.B. Candidate, Keio Univeristy
+  LL.B. Candidate, Keio Univeristy
 site: distill::distill_website
 ---
 
@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Sho Miyazaki is a data scientist interested in legislative redistricting, financial markets, and rugby football. 
 
-He is a L.L.B. candidate in the Faculty of Law in Keio University, studying political science (major), Japanese literature and arts (minor), and statistics. 
+He is a LL.B. candidate in the Faculty of Law in Keio University, studying political science (major), Japanese literature and arts (minor), and statistics. 
 
 After studying at Harvard College as a visiting student, he is now very motivated to study data science, and preparing himself for the Master of Science Program in Data Science.
 
