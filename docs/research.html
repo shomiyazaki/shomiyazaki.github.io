@@ -87,30 +87,33 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
   <!--radix_placeholder_meta_tags-->
-  <title>Sho Miyazaki</title>
+  <title>Sho Miyazaki: Research</title>
 
-  <meta property="description" itemprop="description" content="L.L.B. Candidate, Keio Univeristy"/>
+  <meta property="description" itemprop="description" content="My published research projects and articles"/>
 
   <link rel="icon" type="image/png" href="assets/favicon.png"/>
 
+  <!--  https://schema.org/Article -->
+  <meta property="article:published" itemprop="datePublished" content="2022-05-04"/>
+  <meta property="article:created" itemprop="dateCreated" content="2022-05-04"/>
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="Sho Miyazaki"/>
+  <meta property="og:title" content="Sho Miyazaki: Research"/>
   <meta property="og:type" content="article"/>
-  <meta property="og:description" content="L.L.B. Candidate, Keio Univeristy"/>
+  <meta property="og:description" content="My published research projects and articles"/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:site_name" content="Sho Miyazaki"/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="Sho Miyazaki"/>
-  <meta property="twitter:description" content="L.L.B. Candidate, Keio Univeristy"/>
+  <meta property="twitter:title" content="Sho Miyazaki: Research"/>
+  <meta property="twitter:description" content="My published research projects and articles"/>
 
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","site"]}},"value":[{"type":"character","attributes":{},"value":["Sho Miyazaki"]},{"type":"character","attributes":{},"value":["L.L.B. Candidate, Keio Univeristy\n"]},{"type":"character","attributes":{},"value":["distill::distill_website"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","date","output"]}},"value":[{"type":"character","attributes":{},"value":["Research"]},{"type":"character","attributes":{},"value":["My published research projects and articles\n"]},{"type":"character","attributes":{},"value":["2022-05-04"]},{"type":"character","attributes":{},"value":["distill::distill_article"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2373,7 +2376,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Sho Miyazaki","description":"L.L.B. Candidate, Keio Univeristy","authors":[]}
+{"title":"Research","description":"My published research projects and articles","authors":[],"publishedDate":"2022-05-04T00:00:00.000+09:00"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2414,48 +2417,84 @@ Redistricting
 <!--/radix_placeholder_site_before_body-->
 
 <div class="d-title">
-<h1>Sho Miyazaki</h1>
+<h1>Research</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-<p><p>L.L.B. Candidate, Keio Univeristy</p></p>
+<p><p>My published research projects and articles</p></p>
 </div>
 
 
 <div class="d-article">
-<p>Sho Miyazaki is a data scientist interested in legislative
-redistricting, financial markets, and rugby football.</p>
-<p>He is a L.L.B. candidate in the Faculty of Law in Keio University,
-studying political science (major), Japanese literature and arts
-(minor), and statistics.</p>
-<p>After studying at Harvard College as a visiting student, he is now
-very motivated to study data science, and preparing himself for the
-Master of Science Program in Data Science.</p>
-<p>He is also affiliated with <a
-href="https://www.gmantle.com">Greenmantle</a> and the <a
-href="https://alarm-redist.github.io">Algorithm-Assisted Redistricting
-Methodology (ALARM) Project</a>.</p>
-<div class="package-box" style="background: #F4D3D7">
-<a href="/fifty-states/">
-<h3>
-47-Prefecture Redistricting Simulations
-</h3>
-</a>
-<div style="display:flex">
-<img src="https://alarm-redist.github.io/japan/assets/japan_47pref_256_tr.png" height=180>
-<div style="margin-left: 1em;">
-<p>
-Comprehensive project to simulate alternative legislative redistricting
-plans of House of Representatives for all 47 prefectures in Japan in the
-2020 redistricting cycle.
-</p>
-<p>
-<a href="https://alarm-redist.github.io/japan/en/"> <b>Explore the
-project and data »</b> </a>
-</p>
-</div>
-</div>
-</div>
-<div class="sourceCode" id="cb1"><pre
+<h3 id="prefecture-redistricting-simulations"><a
+href="https://alarm-redist.github.io/japan/en/">47-Prefecture
+Redistricting Simulations</a></h3>
+<p>(with Kento Yamada, Rei Yatsuhashi, and Kosuke Imai). 2022.</p>
+<p><a href="https://github.com/alarm-redist/japan">GitHub</a>, <a
+href="https://doi.org/10.7910/DVN/Z9UKSH">Dataverse</a></p>
+<details>
+<summary>
+BibTeX
+</summary>
+<pre><code>@misc{miyazaki202247-prefecture,
+  author = {Miyazaki, Sho and Yamada, Kento and Yatsuhashi, Rei and Imai, Kosuke},
+  title = {47-Prefecture Redistricting Simulations
+},
+  doi = {https://doi.org/10.7910/DVN/Z9UKSH},
+  url = {https://alarm-redist.github.io/japan/}
+  year = {2022}
+}</code></pre>
+</details>
+<details>
+<summary>
+Abstract
+</summary>
+The goal of the 47-Prefecture Simulation Project is to generate and
+analyze redistricting plans for the single-member districts of the House
+of Representatives of Japan using a redistricting simulation algorithm.
+In this project, we use a redistricting simulation algorithm to generate
+redistricting plans that both limit the number of split municipalities
+and minimize the voting weight disparity (一票の格差) within each
+prefecture. Our simulations are designed to comply with the
+redistricting rules that the Council abides by. We will start with the
+19 prefectures subject to redistricting and plan to expand the scope of
+our research to all 47 prefectures.
+</details>
+<h3 id="a-whale-of-a-tail-the-bank-of-japans-etf-hoard">A Whale of a
+Tail: The Bank of Japan’s ETF Hoard</h3>
+<p><a
+href="https://verdadcap.com/archive/a-whale-of-a-tail-the-bank-of-japans-etf-hoard"><strong>Part
+I</strong></a> and <a
+href="https://verdadcap.com/archive/a-whale-of-a-tail-the-bank-of-japans-etf-hoard-1"><strong>Part
+II</strong></a></p>
+<p>(with Nick Schmitz). 2021. Verdad Capital Research Library.</p>
+<details>
+<summary>
+BibTeX
+</summary>
+<pre><code>@misc{miyazakischmitz2021,
+  author = {Miyazaki, Sho and Schmitz, Nick},
+  title = {A Whale of a Tail: The Bank of Japan&#39;s ETF Hoard
+},
+  url = {https://verdadcap.com/archive/a-whale-of-a-tail-the-bank-of-japans-etf-hoard},
+  year = {2021}
+}</code></pre>
+</details>
+<details>
+<summary>
+Abstract
+</summary>
+<ul>
+<li>Part I: A case study on the impact of correlated ETF fund flows on
+stock price movements and what seems to have happened when the
+decade-long trend stopped.</li>
+<li>Part II: Measuring the impact of material, dynamic, and correlated
+ETF fund flows.</li>
+</ul>
+</details>
+<!--
+# Selected Working Papers
+-->
+<div class="sourceCode" id="cb3"><pre
 class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->

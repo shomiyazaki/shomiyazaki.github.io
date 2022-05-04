@@ -13,7 +13,7 @@ navbar:
   - text: "About"
     href: about.html
   - text: "Research"
-    href: about.html
+    href: research.html
   - text: "Redistricting"
     menu:
       - text: "ALARM Project (Harvard University)"

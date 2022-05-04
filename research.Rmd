@@ -1,0 +1,67 @@
+---
+title: "Research"
+description: |
+  My published research projects and articles
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+### [47-Prefecture Redistricting Simulations](https://alarm-redist.github.io/japan/en/)
+
+(with Kento Yamada, Rei Yatsuhashi, and Kosuke Imai). 2022. 
+
+[GitHub](https://github.com/alarm-redist/japan),  [Dataverse](https://doi.org/10.7910/DVN/Z9UKSH)
+
+<details>
+<summary>BibTeX</summary>
+
+```
+@misc{miyazaki202247-prefecture,
+  author = {Miyazaki, Sho and Yamada, Kento and Yatsuhashi, Rei and Imai, Kosuke},
+  title = {47-Prefecture Redistricting Simulations
+},
+  doi = {https://doi.org/10.7910/DVN/Z9UKSH},
+  url = {https://alarm-redist.github.io/japan/}
+  year = {2022}
+}
+```
+</details>
+
+<details>
+<summary>Abstract</summary>
+The goal of the 47-Prefecture Simulation Project is to generate and analyze redistricting plans for the single-member districts of the House of Representatives of Japan using a redistricting simulation algorithm. In this project, we use a redistricting simulation algorithm to generate redistricting plans that both limit the number of split municipalities and minimize the voting weight disparity (一票の格差) within each prefecture. Our simulations are designed to comply with the redistricting rules that the Council abides by. We will start with the 19 prefectures subject to redistricting and plan to expand the scope of our research to all 47 prefectures.
+</details>
+
+### A Whale of a Tail: The Bank of Japan's ETF Hoard 
+
+[**Part I**](https://verdadcap.com/archive/a-whale-of-a-tail-the-bank-of-japans-etf-hoard) and [**Part II**](https://verdadcap.com/archive/a-whale-of-a-tail-the-bank-of-japans-etf-hoard-1)
+
+(with Nick Schmitz). 2021. Verdad Capital Research Library.
+
+<details>
+<summary>BibTeX</summary>
+
+```
+@misc{miyazakischmitz2021,
+  author = {Miyazaki, Sho and Schmitz, Nick},
+  title = {A Whale of a Tail: The Bank of Japan's ETF Hoard
+},
+  url = {https://verdadcap.com/archive/a-whale-of-a-tail-the-bank-of-japans-etf-hoard},
+  year = {2021}
+}
+```
+
+</details> 
+
+
+<details>
+<summary>Abstract</summary>
+* Part I: A case study on the impact of correlated ETF fund flows on stock price movements and what seems to have happened when the decade-long trend stopped.
+* Part II: Measuring the impact of material, dynamic, and correlated ETF fund flows.
+
+</details>
+
+
+<!--
+# Selected Working Papers
+-->

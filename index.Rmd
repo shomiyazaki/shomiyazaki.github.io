@@ -1,7 +1,7 @@
 ---
 title: "Sho Miyazaki"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  L.L.B. Candidate, Keio Univeristy
 site: distill::distill_website
 ---
 
@@ -13,3 +13,30 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+Sho Miyazaki is a data scientist interested in legislative redistricting, financial markets, and rugby football. 
+
+He is a L.L.B. candidate in the Faculty of Law in Keio University, studying political science (major), Japanese literature and arts (minor), and statistics. 
+
+After studying at Harvard College as a visiting student, he is now very motivated to study data science, and preparing himself for the Master of Science Program in Data Science.
+
+He is also affiliated with [Greenmantle](https://www.gmantle.com) and the [Algorithm-Assisted Redistricting Methodology (ALARM) Project](https://alarm-redist.github.io).
+
+
+<div class="package-box" style="background: #F4D3D7">
+<a href="/fifty-states/">
+<h3>47-Prefecture Redistricting Simulations</h3>
+</a>
+<div style="display:flex">
+<img src="https://alarm-redist.github.io/japan/assets/japan_47pref_256_tr.png" height=180>
+<div style="margin-left: 1em;">
+<p>
+Comprehensive project to simulate alternative legislative redistricting plans of House of Representatives for all 47 prefectures in Japan in the 2020 redistricting cycle.
+</p>
+<p>
+<a href="https://alarm-redist.github.io/japan/en/">
+<b>Explore the project and data &raquo;</b>
+</a>
+</p>
+</div>
+</div>
+</div>
