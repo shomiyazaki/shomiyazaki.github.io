@@ -94,8 +94,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <link rel="icon" type="image/png" href="assets/favicon.png"/>
 
   <!--  https://schema.org/Article -->
-  <meta property="article:published" itemprop="datePublished" content="2022-05-04"/>
-  <meta property="article:created" itemprop="dateCreated" content="2022-05-04"/>
+  <meta property="article:published" itemprop="datePublished" content="2022-05-05"/>
+  <meta property="article:created" itemprop="dateCreated" content="2022-05-05"/>
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
   <meta property="og:title" content="Sho Miyazaki: Research"/>
@@ -113,7 +113,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","date","output"]}},"value":[{"type":"character","attributes":{},"value":["Research"]},{"type":"character","attributes":{},"value":["My published research projects and articles\n"]},{"type":"character","attributes":{},"value":["2022-05-04"]},{"type":"character","attributes":{},"value":["distill::distill_article"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","date","output"]}},"value":[{"type":"character","attributes":{},"value":["Research"]},{"type":"character","attributes":{},"value":["My published research projects and articles\n"]},{"type":"character","attributes":{},"value":["2022-05-05"]},{"type":"character","attributes":{},"value":["distill::distill_article"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2200,6 +2200,16 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   d-article a {
     border-bottom: 2px solid #4DAA9F;
     text-decoration: none;
+  }
+
+  .distill-site-header .logo img {
+      max-height: 44px;
+      margin-bottom: -14px;
+      image-rendering: -webkit-optimize-contrast;
+  }
+
+  .distill-site-header a, .distill-site-header .title {
+      padding: 20px 10px 20px 10px;
   }</style>
   <style type="text/css">
   /* base style */
@@ -2376,7 +2386,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Research","description":"My published research projects and articles","authors":[],"publishedDate":"2022-05-04T00:00:00.000+09:00"}
+{"title":"Research","description":"My published research projects and articles","authors":[],"publishedDate":"2022-05-05T00:00:00.000+09:00"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2384,7 +2394,11 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <header class="header header--fixed" role="banner">
 <nav class="distill-site-nav distill-site-header">
 <div class="nav-left">
+<a class="logo" href="index.html">
+<img src="assets/favicon.png" alt="Logo"/>
+</a>
 <a href="index.html" class="title">Sho Miyazaki</a>
+<input id="distill-search" class="nav-search hidden" type="text" placeholder="Search..."/>
 </div>
 <div class="nav-right">
 <a href="index.html">Home</a>

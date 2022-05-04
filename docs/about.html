@@ -790,6 +790,16 @@
           d-article a {
             border-bottom: 2px solid #4DAA9F;
             text-decoration: none;
+          }
+
+          .distill-site-header .logo img {
+              max-height: 44px;
+              margin-bottom: -14px;
+              image-rendering: -webkit-optimize-contrast;
+          }
+
+          .distill-site-header a, .distill-site-header .title {
+              padding: 20px 10px 20px 10px;
           }</style>
           <style type="text/css">
           /* base style */
@@ -955,7 +965,11 @@
           <header class="header header--fixed" role="banner">
           <nav class="distill-site-nav distill-site-header">
           <div class="nav-left">
+          <a class="logo" href="index.html">
+          <img src="assets/favicon.png" alt="Logo"/>
+          </a>
           <a href="index.html" class="title">Sho Miyazaki</a>
+          <input id="distill-search" class="nav-search hidden" type="text" placeholder="Search..."/>
           </div>
           <div class="nav-right">
           <a href="index.html">Home</a>
