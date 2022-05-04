@@ -10,7 +10,7 @@ navbar:
   logo:
       image: assets/favicon.png
       href: index.html
-  search: true
+  search: false
   right:
   - text: "Home"
     href: index.html
