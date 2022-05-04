@@ -13,6 +13,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+### Welcome
+
 Sho Miyazaki is a data scientist interested in legislative redistricting, financial markets, and rugby football. 
 
 He is a L.L.B. candidate in the Faculty of Law in Keio University, studying political science (major), Japanese literature and arts (minor), and statistics. 
