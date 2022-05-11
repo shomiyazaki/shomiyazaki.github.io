@@ -7,13 +7,13 @@ output_dir: "docs"  # docs directory of master branch
 theme: theme.css
 favicon: assets/favicon.png
 navbar:
-  logo:
-      image: assets/favicon.png
-      href: index.html
-  search: false
+#  logo:
+#      image: assets/favicon.png
+#      href: index.html
+#  search: false
   right:
   - text: "Home"
-    href: index.html
+    href: ./
   - text: "About"
     href: about.html
   - text: "Research"
