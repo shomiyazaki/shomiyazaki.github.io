@@ -25,7 +25,7 @@ He is also affiliated with [Greenmantle](https://www.gmantle.com) and the [Algor
 
 
 <div class="package-box" style="background: #F4D3D7">
-<a href="/fifty-states/">
+<a href="https://alarm-redist.github.io/japan/en/">
 <h3>47-Prefecture Redistricting Simulations</h3>
 </a>
 <div style="display:flex">
