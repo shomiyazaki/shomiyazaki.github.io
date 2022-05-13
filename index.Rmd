@@ -21,7 +21,7 @@ He is a LL.B. candidate in the Faculty of Law in Keio University, studying polit
 
 After studying at Harvard College as a visiting student, he is now very motivated to study applied statistics, and wants to enroll in Ph.D. Program in Quantitative Social Science.
 
-He is also affiliated with [Greenmantle](https://www.gmantle.com) and the [Algorithm-Assisted Redistricting Methodology (ALARM) Project](https://alarm-redist.github.io).
+He is also affiliated with the [Algorithm-Assisted Redistricting Methodology (ALARM) Project](https://alarm-redist.github.io) and [Greenmantle](https://www.gmantle.com).
 
 
 <div class="package-box" style="background: #F4D3D7">

@@ -26,13 +26,13 @@ I am a data scientist interested in legislative redistricting, financial markets
 
 ## Experience
 ##### Current Positions
-* **[Greenmantle](https://www.gmantle.com)** | New York, NY (Remote)
-  + Research Assistant (Japan) | February 2022 - present
-  + Greenmantle is a macroeconomic and geopolitical advisory firm led by [Niall Ferguson](https://www.niallferguson.com/about). 
-
 * **[ALARM Project](https://alarm-redist.github.io)** | Cambridge, MA (Remote)
   + Member | May 2021 - present
   + The Algorithm-Assisted Redistricting Methodology (ALARM) Project is a research team at Harvard University led by [Kosuke Imai](https://imai.fas.harvard.edu/index.html).
+  
+* **[Greenmantle](https://www.gmantle.com)** | New York, NY (Remote)
+  + Research Assistant (Japan) | February 2022 - present
+  + Greenmantle is a macroeconomic and geopolitical advisory firm led by [Niall Ferguson](https://www.niallferguson.com/about). 
 
 ##### Past Positions
 * **[Verdad Capital](https://verdadcap.com)** | Boston, MA (Remote)
