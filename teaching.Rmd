@@ -6,3 +6,45 @@ date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
+## Data Science / Applied Statistics
+### [Introduction to Quantitative Social Science](https://kosukeimai.github.io/qss-todai/)
+**Professor [Kosuke Imai](https://imai.fas.harvard.edu) (Harvard University)**
+
+* University of Tokyo, Summer 2022
+* Course Assistant
+* This is an undergraduate and graduate introductory level course on data analysis in social sciences. 
+
+<details>
+<summary>About</summary>
+Would universal health insurance improve the health of the poor? 
+Do patterns of arrests in US cities show evidence of racial profiling? 
+What accounts for who votes and their choice of candidates?
+
+This course will teach students how to address these and other social science questions by analyzing quantitative data. 
+The course introduces basic principles of statistical inference and programming skills for data analysis. 
+
+The goal is to provide students with the foundation necessary to analyze data in their own research and to become critical consumers of statistical claims made in the news media, in policy reports, and in academic research
+</details>
+
+## Interest-based Negotiation
+### Negotiation I and II (交渉学 I and II)
+**Professor [Jiro Tamura](https://jirotamura.themedia.jp) (Keio University)**
+
+* Keio University, Fall 2021
+* Teaching Assistant
+* This is an undergraduate introductory level course on interest-based negotiation with active-learning. 
+
+<details>
+<summary>About</summary>
+Negotiation is a systematically organized methodology to overcome conflicts and effectively reach an agreement. 
+In this course we will cover topics such as negotiation strategies based on logical thinking, handling cognitive biases due to emotions and heuristics, methodology for creating decision branches for effective consensus building, effective management of negotiation processes, multi-party negotiation, negotiation based on game theory, and methodology of conflict management used to resolve global conflicts and disputes. 
+In addition to the lectures, students will actively work on practical exercises such as group works and role-play simulation.
+
+</details>
+
+## Tutoring and Mentoring
+### Engaged in teaching three students of Keio Junior/Senior High School.
+
+* **Math and Natural Science** , April 2019 (8th grade) -- present (10th grade).
+* **Math and English**, May 2019 (7th grade) -- March 2022 (9th grade).
+* **Math and English**, April 2022 (7th grade) -- present.

@@ -22,7 +22,7 @@ navbar:
     menu:
       - text: "Quantitative Social Science (U-Tokyo)"
         href: https://kosukeimai.github.io/qss-todai/
-      - text: "Others"
+      - text: "Teaching"
         href: teaching.html
   - text: "Redistricting"
     menu:
