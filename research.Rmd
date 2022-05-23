@@ -29,7 +29,10 @@ output: distill::distill_article
 
 <details>
 <summary>Abstract</summary>
-The goal of the 47-Prefecture Simulation Project is to generate and analyze redistricting plans for the single-member districts of the House of Representatives of Japan using a redistricting simulation algorithm. In this project, we use a redistricting simulation algorithm to generate redistricting plans that both limit the number of split municipalities and minimize the voting weight disparity (一票の格差) within each prefecture. Our simulations are designed to comply with the redistricting rules that the Council abides by. We will start with the 19 prefectures subject to redistricting and plan to expand the scope of our research to all 47 prefectures.
+The goal of the 47-Prefecture Simulation Project is to generate and analyze redistricting plans for the single-member districts of the House of Representatives of Japan using a simulation algorithm. We use an open-source software package `redist` developed by the Algorithm-Assisted Redistricting Methodology (ALARM) Project. 
+Using the Sequential Monte Carlo (SMC) algorithm, we generated redistricting plans that both limit the number of split municipalities and minimize the voting weight disparity (一票の格差) within each prefecture, while complying with the redistricting rules that the redistricting committee abides by. We have published the result online starting with the 19 prefectures subjected to redistricting in the 2020 cycle, and plan to expand the scope of our research to all 47 prefectures (https://alarm-redist.github.io/japan/). 
+After the official announcement of the new legislative district map by the redistricting committee due June 25th, we will quantitatively evaluate the enacted redistricting plan by conducting partisan analysis to check the potential gerrymandering. 
+
 </details>
 
 ### A Whale of a Tail: The Bank of Japan's ETF Hoard 
