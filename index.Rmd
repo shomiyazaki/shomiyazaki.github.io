@@ -19,7 +19,7 @@ Sho Miyazaki is a data scientist interested in legislative redistricting, financ
 
 He is a LL.B. candidate in the Faculty of Law in Keio University, studying political science (major), Japanese literature and arts (minor), and statistics. 
 
-After studying at Harvard College as a visiting student, he is now very motivated to study applied statistics, and wants to enroll in Ph.D. Program in Quantitative Social Science.
+After studying at Harvard College as a visiting student, he is now very motivated to study applied statistics, and wants to enroll in Ph.D. Program in Quantitative/Computational Social Science.
 
 He is also affiliated with the [Algorithm-Assisted Redistricting Methodology (ALARM) Project](https://alarm-redist.github.io) and [Greenmantle](https://www.gmantle.com).
 
